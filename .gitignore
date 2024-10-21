@@ -1,0 +1,5 @@
+output/
+doc/
+.env
+*.txt
+poppler-24.07.0/
